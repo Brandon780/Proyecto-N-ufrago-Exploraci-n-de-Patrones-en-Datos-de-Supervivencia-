@@ -1,2 +1,2 @@
-# Proyecto-N-ufrago-Exploraci-n-de-Patrones-en-Datos-de-Supervivencia-
+# Proyecto-Naufrago-Exploracion-de-Patrones-en-Datos-de-Supervivencia-
 Random Forest
