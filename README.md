@@ -1,2 +1,3 @@
-# Proyecto-Naufrago-Exploracion-de-Patrones-en-Datos-de-Supervivencia-
+# 
+Estoy en constante aprendizaje en el mundo del análisis de datos, explorando métodos y clases, así como el poderoso algoritmo Random Forest. Estamos adentrándonos en estas estructuras de algoritmos y en la analítica avanzada
 Random Forest
